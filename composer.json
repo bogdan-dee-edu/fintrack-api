@@ -1,0 +1,17 @@
+{
+    "require": {
+        "slim/slim": "^4.14",
+        "slim/psr7": "^1.7",
+        "php-di/php-di": "^7.0",
+        "doctrine/orm": "^3.4",
+        "symfony/cache": "^7.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    },
+    "require-dev": {
+        "doctrine/data-fixtures": "^2.0"
+    }
+}
