@@ -22,7 +22,7 @@ docker exec -it fintrack-php php bin/fixtures
 
 ---
 #### Start frontend:
-Frontend documentation is [here](https://github.com/bogdan-dee-edu/fintrack-api).
+Frontend documentation is [here](https://github.com/bogdan-dee-edu/fintrack-frontend).
 
 ---
 #### Enjoy ;)
